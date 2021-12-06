@@ -6,6 +6,8 @@ import (
 	"net/rpc"
 )
 
+// making stupid comments here
+
 type Item struct {
 	Title string
 	Body  string
