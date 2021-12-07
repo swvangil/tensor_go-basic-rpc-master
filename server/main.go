@@ -16,7 +16,7 @@ type Item struct {
 
 type API int
 
-//
+// how do I add this change?
 var database []Item
 
 func (a *API) GetDB(empty string, reply *[]Item) error {
