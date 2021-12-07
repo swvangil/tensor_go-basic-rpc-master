@@ -14,6 +14,7 @@ type Item struct {
 
 type API int
 
+//
 var database []Item
 
 func (a *API) GetDB(empty string, reply *[]Item) error {
