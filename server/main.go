@@ -7,8 +7,6 @@ import (
 	"net/rpc"
 )
 
-//
-
 type Item struct {
 	Title string
 	Body  string
