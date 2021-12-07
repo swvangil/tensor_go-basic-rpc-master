@@ -14,12 +14,6 @@ type Item struct {
 	Body  string
 }
 
-// sdfgsdfgsdfgsd
-// sdgsdfgsdfg
-//sdgsdfgsdfgsdfg
-
-// my dumb comments go here
-
 func main() {
 	var reply Item
 	var db []Item
