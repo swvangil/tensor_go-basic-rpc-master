@@ -13,10 +13,6 @@ type Item struct {
 	Body  string
 }
 
-// sdfgsdfgsdfgsd
-// sdgsdfgsdfg
-//sdgsdfgsdfgsdfg
-
 // my dumb comments go here
 
 func main() {
